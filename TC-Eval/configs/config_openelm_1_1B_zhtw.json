@@ -1,8 +1,8 @@
 {
   "default": {
-    "model_name": "OpenELM-270M-zh-sft",
+    "model_name": "OpenELM-1_1B-zh-sft",
     "resp_model_name": "tgi",
-    "api_base": "http://0.0.0.0:8082",
+    "api_base": "http://0.0.0.0:8080",
     "tgi_generation_config": {
       "max_new_tokens": 128,
       "do_sample": false,
