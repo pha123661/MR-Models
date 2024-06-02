@@ -4,6 +4,6 @@
 ieval $1 "${@:2}" \
     --series=tgi \
     --sys_token="[INST] <<SYS>>\n" \
+    --usr_token="<</SYS>>\n\n" \
     --eos_token="\n" \
     --ast_token="[/INST]" \
-    --usr_token="<</SYS>>\n\n" \
