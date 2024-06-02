@@ -23,7 +23,8 @@ df.columns.name = None
 for col in df.columns:
     if col == 'model':
         continue
-    df[col] = df[col].astype(float)
+    df[col] = df[col].astype(float).apply(lambda x: f'{100*x:.2f}%')
+
 
 with open('benchmark_T.md', 'w') as f:
     f.write(df.to_markdown(index=False))
