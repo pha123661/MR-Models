@@ -1,0 +1,4446 @@
+{
+  "results": {
+    "tmmluplus": {
+      "acc_norm,none": 0.24871031746031746,
+      "acc_norm_stderr,none": 0.003046702137094388,
+      "acc,none": 0.24871031746031746,
+      "acc_stderr,none": 0.003046702137094388,
+      "alias": "tmmluplus"
+    },
+    "tmmluplus_STEM": {
+      "alias": " - STEM",
+      "acc_norm,none": 0.25314285714285717,
+      "acc_norm_stderr,none": 0.007359132604768049,
+      "acc,none": 0.25314285714285717,
+      "acc_stderr,none": 0.007359132604768049
+    },
+    "tmmluplus_advance_chemistry": {
+      "alias": "  - advance chemistry",
+      "acc,none": 0.25203252032520324,
+      "acc_stderr,none": 0.039308795268239924,
+      "acc_norm,none": 0.25203252032520324,
+      "acc_norm_stderr,none": 0.039308795268239924
+    },
+    "tmmluplus_basic_medical_science": {
+      "alias": "  - basic medical science",
+      "acc,none": 0.25471698113207547,
+      "acc_stderr,none": 0.014113772479919668,
+      "acc_norm,none": 0.25471698113207547,
+      "acc_norm_stderr,none": 0.014113772479919668
+    },
+    "tmmluplus_computer_science": {
+      "alias": "  - computer science",
+      "acc,none": 0.26436781609195403,
+      "acc_stderr,none": 0.033528305176607875,
+      "acc_norm,none": 0.26436781609195403,
+      "acc_norm_stderr,none": 0.033528305176607875
+    },
+    "tmmluplus_engineering_math": {
+      "alias": "  - engineering math",
+      "acc,none": 0.2524271844660194,
+      "acc_stderr,none": 0.04301250399690878,
+      "acc_norm,none": 0.2524271844660194,
+      "acc_norm_stderr,none": 0.04301250399690878
+    },
+    "tmmluplus_junior_chemistry": {
+      "alias": "  - junior chemistry",
+      "acc,none": 0.20574162679425836,
+      "acc_stderr,none": 0.02802917520177637,
+      "acc_norm,none": 0.20574162679425836,
+      "acc_norm_stderr,none": 0.02802917520177637
+    },
+    "tmmluplus_junior_math_exam": {
+      "alias": "  - junior math exam",
+      "acc,none": 0.2571428571428571,
+      "acc_stderr,none": 0.03313334329221721,
+      "acc_norm,none": 0.2571428571428571,
+      "acc_norm_stderr,none": 0.03313334329221721
+    },
+    "tmmluplus_junior_science_exam": {
+      "alias": "  - junior science exam",
+      "acc,none": 0.22535211267605634,
+      "acc_stderr,none": 0.028695583282897855,
+      "acc_norm,none": 0.22535211267605634,
+      "acc_norm_stderr,none": 0.028695583282897855
+    },
+    "tmmluplus_linear_algebra": {
+      "alias": "  - linear algebra",
+      "acc,none": 0.21428571428571427,
+      "acc_stderr,none": 0.06408213992247222,
+      "acc_norm,none": 0.21428571428571427,
+      "acc_norm_stderr,none": 0.06408213992247222
+    },
+    "tmmluplus_organic_chemistry": {
+      "alias": "  - organic chemistry",
+      "acc,none": 0.26605504587155965,
+      "acc_stderr,none": 0.04252121022347447,
+      "acc_norm,none": 0.26605504587155965,
+      "acc_norm_stderr,none": 0.04252121022347447
+    },
+    "tmmluplus_pharmacy": {
+      "alias": "  - pharmacy",
+      "acc,none": 0.26342710997442453,
+      "acc_stderr,none": 0.02230518323716383,
+      "acc_norm,none": 0.26342710997442453,
+      "acc_norm_stderr,none": 0.02230518323716383
+    },
+    "tmmluplus_physics": {
+      "alias": "  - physics",
+      "acc,none": 0.24742268041237114,
+      "acc_stderr,none": 0.04404125641916254,
+      "acc_norm,none": 0.24742268041237114,
+      "acc_norm_stderr,none": 0.04404125641916254
+    },
+    "tmmluplus_secondary_physics": {
+      "alias": "  - secondary physics",
+      "acc,none": 0.30357142857142855,
+      "acc_stderr,none": 0.04364226155841044,
+      "acc_norm,none": 0.30357142857142855,
+      "acc_norm_stderr,none": 0.04364226155841044
+    },
+    "tmmluplus_statistics_and_machine_learning": {
+      "alias": "  - statistics and machine learning",
+      "acc,none": 0.25892857142857145,
+      "acc_stderr,none": 0.02933375031075737,
+      "acc_norm,none": 0.25892857142857145,
+      "acc_norm_stderr,none": 0.02933375031075737
+    },
+    "tmmluplus_tve_mathematics": {
+      "alias": "  - tve mathematics",
+      "acc,none": 0.24,
+      "acc_stderr,none": 0.0349880132877748,
+      "acc_norm,none": 0.24,
+      "acc_norm_stderr,none": 0.0349880132877748
+    },
+    "tmmluplus_tve_natural_sciences": {
+      "alias": "  - tve natural sciences",
+      "acc,none": 0.2617924528301887,
+      "acc_stderr,none": 0.021374581381787803,
+      "acc_norm,none": 0.2617924528301887,
+      "acc_norm_stderr,none": 0.021374581381787803
+    },
+    "tmmluplus_humanities": {
+      "alias": " - humanities",
+      "acc_norm,none": 0.2319909245604084,
+      "acc_norm_stderr,none": 0.010063176904816814,
+      "acc,none": 0.2319909245604084,
+      "acc_stderr,none": 0.010063176904816814
+    },
+    "tmmluplus_administrative_law": {
+      "alias": "  - administrative law",
+      "acc,none": 0.22857142857142856,
+      "acc_stderr,none": 0.020514069367972777,
+      "acc_norm,none": 0.22857142857142856,
+      "acc_norm_stderr,none": 0.020514069367972777
+    },
+    "tmmluplus_anti_money_laundering": {
+      "alias": "  - anti money laundering",
+      "acc,none": 0.1791044776119403,
+      "acc_stderr,none": 0.03324844546213894,
+      "acc_norm,none": 0.1791044776119403,
+      "acc_norm_stderr,none": 0.03324844546213894
+    },
+    "tmmluplus_general_principles_of_law": {
+      "alias": "  - general principles of law",
+      "acc,none": 0.25471698113207547,
+      "acc_stderr,none": 0.04252016223763311,
+      "acc_norm,none": 0.25471698113207547,
+      "acc_norm_stderr,none": 0.04252016223763311
+    },
+    "tmmluplus_introduction_to_law": {
+      "alias": "  - introduction to law",
+      "acc,none": 0.23628691983122363,
+      "acc_stderr,none": 0.02765215314415927,
+      "acc_norm,none": 0.23628691983122363,
+      "acc_norm_stderr,none": 0.02765215314415927
+    },
+    "tmmluplus_jce_humanities": {
+      "alias": "  - jce humanities",
+      "acc,none": 0.2111111111111111,
+      "acc_stderr,none": 0.04325820177821495,
+      "acc_norm,none": 0.2111111111111111,
+      "acc_norm_stderr,none": 0.04325820177821495
+    },
+    "tmmluplus_taxation": {
+      "alias": "  - taxation",
+      "acc,none": 0.25066666666666665,
+      "acc_stderr,none": 0.022410421139254445,
+      "acc_norm,none": 0.25066666666666665,
+      "acc_norm_stderr,none": 0.022410421139254445
+    },
+    "tmmluplus_trust_practice": {
+      "alias": "  - trust practice",
+      "acc,none": 0.23192019950124687,
+      "acc_stderr,none": 0.02110291570876816,
+      "acc_norm,none": 0.23192019950124687,
+      "acc_norm_stderr,none": 0.02110291570876816
+    },
+    "tmmluplus_other": {
+      "alias": " - other",
+      "acc_norm,none": 0.24890927396800536,
+      "acc_norm_stderr,none": 0.004575348588762528,
+      "acc,none": 0.24890927396800536,
+      "acc_stderr,none": 0.004575348588762528
+    },
+    "tmmluplus_accounting": {
+      "alias": "  - accounting",
+      "acc,none": 0.2356020942408377,
+      "acc_stderr,none": 0.030787364755364144,
+      "acc_norm,none": 0.2356020942408377,
+      "acc_norm_stderr,none": 0.030787364755364144
+    },
+    "tmmluplus_agriculture": {
+      "alias": "  - agriculture",
+      "acc,none": 0.304635761589404,
+      "acc_stderr,none": 0.03757949922943343,
+      "acc_norm,none": 0.304635761589404,
+      "acc_norm_stderr,none": 0.03757949922943343
+    },
+    "tmmluplus_auditing": {
+      "alias": "  - auditing",
+      "acc,none": 0.26,
+      "acc_stderr,none": 0.018720453344035035,
+      "acc_norm,none": 0.26,
+      "acc_norm_stderr,none": 0.018720453344035035
+    },
+    "tmmluplus_business_management": {
+      "alias": "  - business management",
+      "acc,none": 0.23741007194244604,
+      "acc_stderr,none": 0.036220593237998276,
+      "acc_norm,none": 0.23741007194244604,
+      "acc_norm_stderr,none": 0.036220593237998276
+    },
+    "tmmluplus_culinary_skills": {
+      "alias": "  - culinary skills",
+      "acc,none": 0.22945205479452055,
+      "acc_stderr,none": 0.024649000547486886,
+      "acc_norm,none": 0.22945205479452055,
+      "acc_norm_stderr,none": 0.024649000547486886
+    },
+    "tmmluplus_dentistry": {
+      "alias": "  - dentistry",
+      "acc,none": 0.24812030075187969,
+      "acc_stderr,none": 0.021650293736136667,
+      "acc_norm,none": 0.24812030075187969,
+      "acc_norm_stderr,none": 0.021650293736136667
+    },
+    "tmmluplus_finance_banking": {
+      "alias": "  - finance banking",
+      "acc,none": 0.1925925925925926,
+      "acc_stderr,none": 0.03406542058502655,
+      "acc_norm,none": 0.1925925925925926,
+      "acc_norm_stderr,none": 0.03406542058502655
+    },
+    "tmmluplus_financial_analysis": {
+      "alias": "  - financial analysis",
+      "acc,none": 0.2643979057591623,
+      "acc_stderr,none": 0.022593733202472162,
+      "acc_norm,none": 0.2643979057591623,
+      "acc_norm_stderr,none": 0.022593733202472162
+    },
+    "tmmluplus_fire_science": {
+      "alias": "  - fire science",
+      "acc,none": 0.1935483870967742,
+      "acc_stderr,none": 0.03562307292736988,
+      "acc_norm,none": 0.1935483870967742,
+      "acc_norm_stderr,none": 0.03562307292736988
+    },
+    "tmmluplus_insurance_studies": {
+      "alias": "  - insurance studies",
+      "acc,none": 0.26710526315789473,
+      "acc_stderr,none": 0.016059837119821965,
+      "acc_norm,none": 0.26710526315789473,
+      "acc_norm_stderr,none": 0.016059837119821965
+    },
+    "tmmluplus_junior_social_studies": {
+      "alias": "  - junior social studies",
+      "acc,none": 0.2777777777777778,
+      "acc_stderr,none": 0.040061680838488774,
+      "acc_norm,none": 0.2777777777777778,
+      "acc_norm_stderr,none": 0.040061680838488774
+    },
+    "tmmluplus_logic_reasoning": {
+      "alias": "  - logic reasoning",
+      "acc,none": 0.2589928057553957,
+      "acc_stderr,none": 0.03729198658164233,
+      "acc_norm,none": 0.2589928057553957,
+      "acc_norm_stderr,none": 0.03729198658164233
+    },
+    "tmmluplus_management_accounting": {
+      "alias": "  - management accounting",
+      "acc,none": 0.2372093023255814,
+      "acc_stderr,none": 0.0290778080599127,
+      "acc_norm,none": 0.2372093023255814,
+      "acc_norm_stderr,none": 0.0290778080599127
+    },
+    "tmmluplus_marketing_management": {
+      "alias": "  - marketing management",
+      "acc,none": 0.3118279569892473,
+      "acc_stderr,none": 0.04829610685421209,
+      "acc_norm,none": 0.3118279569892473,
+      "acc_norm_stderr,none": 0.04829610685421209
+    },
+    "tmmluplus_mechanical": {
+      "alias": "  - mechanical",
+      "acc,none": 0.2457627118644068,
+      "acc_stderr,none": 0.039803298549204336,
+      "acc_norm,none": 0.2457627118644068,
+      "acc_norm_stderr,none": 0.039803298549204336
+    },
+    "tmmluplus_music": {
+      "alias": "  - music",
+      "acc,none": 0.27697841726618705,
+      "acc_stderr,none": 0.026888013087237227,
+      "acc_norm,none": 0.27697841726618705,
+      "acc_norm_stderr,none": 0.026888013087237227
+    },
+    "tmmluplus_nautical_science": {
+      "alias": "  - nautical science",
+      "acc,none": 0.2595281306715064,
+      "acc_stderr,none": 0.01869240390502174,
+      "acc_norm,none": 0.2595281306715064,
+      "acc_norm_stderr,none": 0.01869240390502174
+    },
+    "tmmluplus_official_document_management": {
+      "alias": "  - official document management",
+      "acc,none": 0.22522522522522523,
+      "acc_stderr,none": 0.02809959848568011,
+      "acc_norm,none": 0.22522522522522523,
+      "acc_norm_stderr,none": 0.02809959848568011
+    },
+    "tmmluplus_optometry": {
+      "alias": "  - optometry",
+      "acc,none": 0.2467391304347826,
+      "acc_stderr,none": 0.014221125297606312,
+      "acc_norm,none": 0.2467391304347826,
+      "acc_norm_stderr,none": 0.014221125297606312
+    },
+    "tmmluplus_pharmacology": {
+      "alias": "  - pharmacology",
+      "acc,none": 0.23050259965337955,
+      "acc_stderr,none": 0.01754810606304915,
+      "acc_norm,none": 0.23050259965337955,
+      "acc_norm_stderr,none": 0.01754810606304915
+    },
+    "tmmluplus_real_estate": {
+      "alias": "  - real estate",
+      "acc,none": 0.25,
+      "acc_stderr,none": 0.04539206495016019,
+      "acc_norm,none": 0.25,
+      "acc_norm_stderr,none": 0.04539206495016019
+    },
+    "tmmluplus_technical": {
+      "alias": "  - technical",
+      "acc,none": 0.21890547263681592,
+      "acc_stderr,none": 0.020649422995354296,
+      "acc_norm,none": 0.21890547263681592,
+      "acc_norm_stderr,none": 0.020649422995354296
+    },
+    "tmmluplus_trade": {
+      "alias": "  - trade",
+      "acc,none": 0.25298804780876494,
+      "acc_stderr,none": 0.019422043132237467,
+      "acc_norm,none": 0.25298804780876494,
+      "acc_norm_stderr,none": 0.019422043132237467
+    },
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": {
+      "alias": "  - traditional chinese medicine clinical medicine",
+      "acc,none": 0.26258992805755393,
+      "acc_stderr,none": 0.02643952692277107,
+      "acc_norm,none": 0.26258992805755393,
+      "acc_norm_stderr,none": 0.02643952692277107
+    },
+    "tmmluplus_tve_design": {
+      "alias": "  - tve design",
+      "acc,none": 0.2520833333333333,
+      "acc_stderr,none": 0.019839508798641547,
+      "acc_norm,none": 0.2520833333333333,
+      "acc_norm_stderr,none": 0.019839508798641547
+    },
+    "tmmluplus_veterinary_pathology": {
+      "alias": "  - veterinary pathology",
+      "acc,none": 0.23674911660777384,
+      "acc_stderr,none": 0.025313563515401618,
+      "acc_norm,none": 0.23674911660777384,
+      "acc_norm_stderr,none": 0.025313563515401618
+    },
+    "tmmluplus_veterinary_pharmacology": {
+      "alias": "  - veterinary pharmacology",
+      "acc,none": 0.2388888888888889,
+      "acc_stderr,none": 0.018366551616528413,
+      "acc_norm,none": 0.2388888888888889,
+      "acc_norm_stderr,none": 0.018366551616528413
+    },
+    "tmmluplus_social_sciences": {
+      "alias": " - social sciences",
+      "acc_norm,none": 0.25075528700906347,
+      "acc_norm_stderr,none": 0.005621284402971687,
+      "acc,none": 0.25075528700906347,
+      "acc_stderr,none": 0.005621284402971687
+    },
+    "tmmluplus_chinese_language_and_literature": {
+      "alias": "  - chinese language and literature",
+      "acc,none": 0.24623115577889448,
+      "acc_stderr,none": 0.03061667315803728,
+      "acc_norm,none": 0.24623115577889448,
+      "acc_norm_stderr,none": 0.03061667315803728
+    },
+    "tmmluplus_clinical_psychology": {
+      "alias": "  - clinical psychology",
+      "acc,none": 0.264,
+      "acc_stderr,none": 0.03958494337416042,
+      "acc_norm,none": 0.264,
+      "acc_norm_stderr,none": 0.03958494337416042
+    },
+    "tmmluplus_economics": {
+      "alias": "  - economics",
+      "acc,none": 0.2544529262086514,
+      "acc_stderr,none": 0.021998761244838582,
+      "acc_norm,none": 0.2544529262086514,
+      "acc_norm_stderr,none": 0.021998761244838582
+    },
+    "tmmluplus_education": {
+      "alias": "  - education",
+      "acc,none": 0.23387096774193547,
+      "acc_stderr,none": 0.038166871322920584,
+      "acc_norm,none": 0.23387096774193547,
+      "acc_norm_stderr,none": 0.038166871322920584
+    },
+    "tmmluplus_education_(profession_level)": {
+      "alias": "  - education (profession level)",
+      "acc,none": 0.2551440329218107,
+      "acc_stderr,none": 0.019795113183584866,
+      "acc_norm,none": 0.2551440329218107,
+      "acc_norm_stderr,none": 0.019795113183584866
+    },
+    "tmmluplus_educational_psychology": {
+      "alias": "  - educational psychology",
+      "acc,none": 0.25,
+      "acc_stderr,none": 0.032732683535398856,
+      "acc_norm,none": 0.25,
+      "acc_norm_stderr,none": 0.032732683535398856
+    },
+    "tmmluplus_geography_of_taiwan": {
+      "alias": "  - geography of taiwan",
+      "acc,none": 0.25390625,
+      "acc_stderr,none": 0.015715771822527657,
+      "acc_norm,none": 0.25390625,
+      "acc_norm_stderr,none": 0.015715771822527657
+    },
+    "tmmluplus_human_behavior": {
+      "alias": "  - human behavior",
+      "acc,none": 0.23300970873786409,
+      "acc_stderr,none": 0.024088323973584406,
+      "acc_norm,none": 0.23300970873786409,
+      "acc_norm_stderr,none": 0.024088323973584406
+    },
+    "tmmluplus_junior_chinese_exam": {
+      "alias": "  - junior chinese exam",
+      "acc,none": 0.25142857142857145,
+      "acc_stderr,none": 0.03288889734209821,
+      "acc_norm,none": 0.25142857142857145,
+      "acc_norm_stderr,none": 0.03288889734209821
+    },
+    "tmmluplus_macroeconomics": {
+      "alias": "  - macroeconomics",
+      "acc,none": 0.2360097323600973,
+      "acc_stderr,none": 0.020970893800892815,
+      "acc_norm,none": 0.2360097323600973,
+      "acc_norm_stderr,none": 0.020970893800892815
+    },
+    "tmmluplus_national_protection": {
+      "alias": "  - national protection",
+      "acc,none": 0.26066350710900477,
+      "acc_stderr,none": 0.03029364566174281,
+      "acc_norm,none": 0.26066350710900477,
+      "acc_norm_stderr,none": 0.03029364566174281
+    },
+    "tmmluplus_occupational_therapy_for_psychological_disorders": {
+      "alias": "  - occupational therapy for psychological disorders",
+      "acc,none": 0.27440147329650094,
+      "acc_stderr,none": 0.01916645404846457,
+      "acc_norm,none": 0.27440147329650094,
+      "acc_norm_stderr,none": 0.01916645404846457
+    },
+    "tmmluplus_physical_education": {
+      "alias": "  - physical education",
+      "acc,none": 0.2569832402234637,
+      "acc_stderr,none": 0.03275229252356165,
+      "acc_norm,none": 0.2569832402234637,
+      "acc_norm_stderr,none": 0.03275229252356165
+    },
+    "tmmluplus_politic_science": {
+      "alias": "  - politic science",
+      "acc,none": 0.23316582914572864,
+      "acc_stderr,none": 0.013411890174499157,
+      "acc_norm,none": 0.23316582914572864,
+      "acc_norm_stderr,none": 0.013411890174499157
+    },
+    "tmmluplus_taiwanese_hokkien": {
+      "alias": "  - taiwanese hokkien",
+      "acc,none": 0.2558139534883721,
+      "acc_stderr,none": 0.03856540453901633,
+      "acc_norm,none": 0.2558139534883721,
+      "acc_norm_stderr,none": 0.03856540453901633
+    },
+    "tmmluplus_three_principles_of_people": {
+      "alias": "  - three principles of people",
+      "acc,none": 0.26618705035971224,
+      "acc_stderr,none": 0.037622409350890895,
+      "acc_norm,none": 0.26618705035971224,
+      "acc_norm_stderr,none": 0.037622409350890895
+    },
+    "tmmluplus_ttqav2": {
+      "alias": "  - ttqav2",
+      "acc,none": 0.2831858407079646,
+      "acc_stderr,none": 0.0425725872072888,
+      "acc_norm,none": 0.2831858407079646,
+      "acc_norm_stderr,none": 0.0425725872072888
+    },
+    "tmmluplus_tve_chinese_language": {
+      "alias": "  - tve chinese language",
+      "acc,none": 0.2546583850931677,
+      "acc_stderr,none": 0.019844179931855437,
+      "acc_norm,none": 0.2546583850931677,
+      "acc_norm_stderr,none": 0.019844179931855437
+    }
+  },
+  "groups": {
+    "tmmluplus": {
+      "acc_norm,none": 0.24871031746031746,
+      "acc_norm_stderr,none": 0.003046702137094388,
+      "acc,none": 0.24871031746031746,
+      "acc_stderr,none": 0.003046702137094388,
+      "alias": "tmmluplus"
+    },
+    "tmmluplus_STEM": {
+      "alias": " - STEM",
+      "acc_norm,none": 0.25314285714285717,
+      "acc_norm_stderr,none": 0.007359132604768049,
+      "acc,none": 0.25314285714285717,
+      "acc_stderr,none": 0.007359132604768049
+    },
+    "tmmluplus_humanities": {
+      "alias": " - humanities",
+      "acc_norm,none": 0.2319909245604084,
+      "acc_norm_stderr,none": 0.010063176904816814,
+      "acc,none": 0.2319909245604084,
+      "acc_stderr,none": 0.010063176904816814
+    },
+    "tmmluplus_other": {
+      "alias": " - other",
+      "acc_norm,none": 0.24890927396800536,
+      "acc_norm_stderr,none": 0.004575348588762528,
+      "acc,none": 0.24890927396800536,
+      "acc_stderr,none": 0.004575348588762528
+    },
+    "tmmluplus_social_sciences": {
+      "alias": " - social sciences",
+      "acc_norm,none": 0.25075528700906347,
+      "acc_norm_stderr,none": 0.005621284402971687,
+      "acc,none": 0.25075528700906347,
+      "acc_stderr,none": 0.005621284402971687
+    }
+  },
+  "group_subtasks": {
+    "tmmluplus_other": [
+      "tmmluplus_financial_analysis",
+      "tmmluplus_optometry",
+      "tmmluplus_culinary_skills",
+      "tmmluplus_veterinary_pharmacology",
+      "tmmluplus_tve_design",
+      "tmmluplus_accounting",
+      "tmmluplus_official_document_management",
+      "tmmluplus_fire_science",
+      "tmmluplus_real_estate",
+      "tmmluplus_music",
+      "tmmluplus_finance_banking",
+      "tmmluplus_veterinary_pathology",
+      "tmmluplus_marketing_management",
+      "tmmluplus_junior_social_studies",
+      "tmmluplus_pharmacology",
+      "tmmluplus_agriculture",
+      "tmmluplus_management_accounting",
+      "tmmluplus_traditional_chinese_medicine_clinical_medicine",
+      "tmmluplus_auditing",
+      "tmmluplus_nautical_science",
+      "tmmluplus_mechanical",
+      "tmmluplus_logic_reasoning",
+      "tmmluplus_business_management",
+      "tmmluplus_trade",
+      "tmmluplus_dentistry",
+      "tmmluplus_technical",
+      "tmmluplus_insurance_studies"
+    ],
+    "tmmluplus_social_sciences": [
+      "tmmluplus_clinical_psychology",
+      "tmmluplus_tve_chinese_language",
+      "tmmluplus_national_protection",
+      "tmmluplus_educational_psychology",
+      "tmmluplus_economics",
+      "tmmluplus_chinese_language_and_literature",
+      "tmmluplus_human_behavior",
+      "tmmluplus_geography_of_taiwan",
+      "tmmluplus_occupational_therapy_for_psychological_disorders",
+      "tmmluplus_ttqav2",
+      "tmmluplus_education_(profession_level)",
+      "tmmluplus_macroeconomics",
+      "tmmluplus_physical_education",
+      "tmmluplus_junior_chinese_exam",
+      "tmmluplus_three_principles_of_people",
+      "tmmluplus_taiwanese_hokkien",
+      "tmmluplus_politic_science",
+      "tmmluplus_education"
+    ],
+    "tmmluplus_humanities": [
+      "tmmluplus_general_principles_of_law",
+      "tmmluplus_introduction_to_law",
+      "tmmluplus_anti_money_laundering",
+      "tmmluplus_trust_practice",
+      "tmmluplus_administrative_law",
+      "tmmluplus_jce_humanities",
+      "tmmluplus_taxation"
+    ],
+    "tmmluplus_STEM": [
+      "tmmluplus_tve_natural_sciences",
+      "tmmluplus_junior_chemistry",
+      "tmmluplus_secondary_physics",
+      "tmmluplus_basic_medical_science",
+      "tmmluplus_linear_algebra",
+      "tmmluplus_junior_science_exam",
+      "tmmluplus_physics",
+      "tmmluplus_pharmacy",
+      "tmmluplus_organic_chemistry",
+      "tmmluplus_statistics_and_machine_learning",
+      "tmmluplus_engineering_math",
+      "tmmluplus_junior_math_exam",
+      "tmmluplus_computer_science",
+      "tmmluplus_tve_mathematics",
+      "tmmluplus_advance_chemistry"
+    ],
+    "tmmluplus": [
+      "tmmluplus_STEM",
+      "tmmluplus_humanities",
+      "tmmluplus_social_sciences",
+      "tmmluplus_other"
+    ]
+  },
+  "configs": {
+    "tmmluplus_accounting": {
+      "task": "tmmluplus_accounting",
+      "task_alias": "accounting",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "accounting",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為會計學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_administrative_law": {
+      "task": "tmmluplus_administrative_law",
+      "task_alias": "administrative law",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "administrative_law",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為行政法的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_advance_chemistry": {
+      "task": "tmmluplus_advance_chemistry",
+      "task_alias": "advance chemistry",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "advance_chemistry",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為化學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_agriculture": {
+      "task": "tmmluplus_agriculture",
+      "task_alias": "agriculture",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "agriculture",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為農業的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_anti_money_laundering": {
+      "task": "tmmluplus_anti_money_laundering",
+      "task_alias": "anti money laundering",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "anti_money_laundering",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為洗錢防制的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_auditing": {
+      "task": "tmmluplus_auditing",
+      "task_alias": "auditing",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "auditing",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為審計學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_basic_medical_science": {
+      "task": "tmmluplus_basic_medical_science",
+      "task_alias": "basic medical science",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "basic_medical_science",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為基礎醫學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_business_management": {
+      "task": "tmmluplus_business_management",
+      "task_alias": "business management",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "business_management",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為企業管理的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_chinese_language_and_literature": {
+      "task": "tmmluplus_chinese_language_and_literature",
+      "task_alias": "chinese language and literature",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "chinese_language_and_literature",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為國文的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_clinical_psychology": {
+      "task": "tmmluplus_clinical_psychology",
+      "task_alias": "clinical psychology",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "clinical_psychology",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為臨床心理學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_computer_science": {
+      "task": "tmmluplus_computer_science",
+      "task_alias": "computer science",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "computer_science",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為資訊工程的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_culinary_skills": {
+      "task": "tmmluplus_culinary_skills",
+      "task_alias": "culinary skills",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "culinary_skills",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為餐旅的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_dentistry": {
+      "task": "tmmluplus_dentistry",
+      "task_alias": "dentistry",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "dentistry",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為牙醫學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_economics": {
+      "task": "tmmluplus_economics",
+      "task_alias": "economics",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "economics",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為經濟學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_education": {
+      "task": "tmmluplus_education",
+      "task_alias": "education",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "education",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為教育常識的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_education_(profession_level)": {
+      "task": "tmmluplus_education_(profession_level)",
+      "task_alias": "education (profession level)",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "education_(profession_level)",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為教育專業的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_educational_psychology": {
+      "task": "tmmluplus_educational_psychology",
+      "task_alias": "educational psychology",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "educational_psychology",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為教育心理的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_engineering_math": {
+      "task": "tmmluplus_engineering_math",
+      "task_alias": "engineering math",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "engineering_math",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為工程數學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_finance_banking": {
+      "task": "tmmluplus_finance_banking",
+      "task_alias": "finance banking",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "finance_banking",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為金融與法規的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_financial_analysis": {
+      "task": "tmmluplus_financial_analysis",
+      "task_alias": "financial analysis",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "financial_analysis",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為財務分析的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_fire_science": {
+      "task": "tmmluplus_fire_science",
+      "task_alias": "fire science",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "fire_science",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為火災學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_general_principles_of_law": {
+      "task": "tmmluplus_general_principles_of_law",
+      "task_alias": "general principles of law",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "general_principles_of_law",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為法學大意的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_geography_of_taiwan": {
+      "task": "tmmluplus_geography_of_taiwan",
+      "task_alias": "geography of taiwan",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "geography_of_taiwan",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為台灣地理的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_human_behavior": {
+      "task": "tmmluplus_human_behavior",
+      "task_alias": "human behavior",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "human_behavior",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為人類行為與社會的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_insurance_studies": {
+      "task": "tmmluplus_insurance_studies",
+      "task_alias": "insurance studies",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "insurance_studies",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為保險學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_introduction_to_law": {
+      "task": "tmmluplus_introduction_to_law",
+      "task_alias": "introduction to law",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "introduction_to_law",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為法律概論的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_jce_humanities": {
+      "task": "tmmluplus_jce_humanities",
+      "task_alias": "jce humanities",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "jce_humanities",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為指考人文科目的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_junior_chemistry": {
+      "task": "tmmluplus_junior_chemistry",
+      "task_alias": "junior chemistry",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "junior_chemistry",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為國中理化的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_junior_chinese_exam": {
+      "task": "tmmluplus_junior_chinese_exam",
+      "task_alias": "junior chinese exam",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "junior_chinese_exam",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為國中會考基測國文的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_junior_math_exam": {
+      "task": "tmmluplus_junior_math_exam",
+      "task_alias": "junior math exam",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "junior_math_exam",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為國中會考基測數學科的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_junior_science_exam": {
+      "task": "tmmluplus_junior_science_exam",
+      "task_alias": "junior science exam",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "junior_science_exam",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為國中會考基測自然科的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_junior_social_studies": {
+      "task": "tmmluplus_junior_social_studies",
+      "task_alias": "junior social studies",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "junior_social_studies",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為國中會考基測社會科的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_linear_algebra": {
+      "task": "tmmluplus_linear_algebra",
+      "task_alias": "linear algebra",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "linear_algebra",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為線代的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_logic_reasoning": {
+      "task": "tmmluplus_logic_reasoning",
+      "task_alias": "logic reasoning",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "logic_reasoning",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為邏輯思維的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_macroeconomics": {
+      "task": "tmmluplus_macroeconomics",
+      "task_alias": "macroeconomics",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "macroeconomics",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為總經的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_management_accounting": {
+      "task": "tmmluplus_management_accounting",
+      "task_alias": "management accounting",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "management_accounting",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為管理會計的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_marketing_management": {
+      "task": "tmmluplus_marketing_management",
+      "task_alias": "marketing management",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "marketing_management",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為行銷管理的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_mechanical": {
+      "task": "tmmluplus_mechanical",
+      "task_alias": "mechanical",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "mechanical",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為機械與機電概論的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_music": {
+      "task": "tmmluplus_music",
+      "task_alias": "music",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "music",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為音樂科的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_national_protection": {
+      "task": "tmmluplus_national_protection",
+      "task_alias": "national protection",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "national_protection",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為軍事的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_nautical_science": {
+      "task": "tmmluplus_nautical_science",
+      "task_alias": "nautical science",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "nautical_science",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為航海的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_occupational_therapy_for_psychological_disorders": {
+      "task": "tmmluplus_occupational_therapy_for_psychological_disorders",
+      "task_alias": "occupational therapy for psychological disorders",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "occupational_therapy_for_psychological_disorders",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為心理障礙職能治療學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_official_document_management": {
+      "task": "tmmluplus_official_document_management",
+      "task_alias": "official document management",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "official_document_management",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為機關文書的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_optometry": {
+      "task": "tmmluplus_optometry",
+      "task_alias": "optometry",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "optometry",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為視光學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_organic_chemistry": {
+      "task": "tmmluplus_organic_chemistry",
+      "task_alias": "organic chemistry",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "organic_chemistry",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為有機化學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_pharmacology": {
+      "task": "tmmluplus_pharmacology",
+      "task_alias": "pharmacology",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "pharmacology",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為藥理學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_pharmacy": {
+      "task": "tmmluplus_pharmacy",
+      "task_alias": "pharmacy",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "pharmacy",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為藥劑學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_physical_education": {
+      "task": "tmmluplus_physical_education",
+      "task_alias": "physical education",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "physical_education",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為體育的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_physics": {
+      "task": "tmmluplus_physics",
+      "task_alias": "physics",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "physics",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為物理的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_politic_science": {
+      "task": "tmmluplus_politic_science",
+      "task_alias": "politic science",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "politic_science",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為政治的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_real_estate": {
+      "task": "tmmluplus_real_estate",
+      "task_alias": "real estate",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "real_estate",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為房地產的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_secondary_physics": {
+      "task": "tmmluplus_secondary_physics",
+      "task_alias": "secondary physics",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "secondary_physics",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為高中物理的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_statistics_and_machine_learning": {
+      "task": "tmmluplus_statistics_and_machine_learning",
+      "task_alias": "statistics and machine learning",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "statistics_and_machine_learning",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為統計與機器學習的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_taiwanese_hokkien": {
+      "task": "tmmluplus_taiwanese_hokkien",
+      "task_alias": "taiwanese hokkien",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "taiwanese_hokkien",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為閩南語的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_taxation": {
+      "task": "tmmluplus_taxation",
+      "task_alias": "taxation",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "taxation",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為稅務的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_technical": {
+      "task": "tmmluplus_technical",
+      "task_alias": "technical",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "technical",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為技術工相關的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_three_principles_of_people": {
+      "task": "tmmluplus_three_principles_of_people",
+      "task_alias": "three principles of people",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "three_principles_of_people",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為三民主義的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_trade": {
+      "task": "tmmluplus_trade",
+      "task_alias": "trade",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "trade",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為貿易的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": {
+      "task": "tmmluplus_traditional_chinese_medicine_clinical_medicine",
+      "task_alias": "traditional chinese medicine clinical medicine",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "traditional_chinese_medicine_clinical_medicine",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為中醫臨床醫學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_trust_practice": {
+      "task": "tmmluplus_trust_practice",
+      "task_alias": "trust practice",
+      "group": "tmmluplus_humanities",
+      "group_alias": "humanities",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "trust_practice",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為信託實務的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_ttqav2": {
+      "task": "tmmluplus_ttqav2",
+      "task_alias": "ttqav2",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "ttqav2",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為台灣在地用語的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_tve_chinese_language": {
+      "task": "tmmluplus_tve_chinese_language",
+      "task_alias": "tve chinese language",
+      "group": "tmmluplus_social_sciences",
+      "group_alias": "social sciences",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "tve_chinese_language",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為統測國文的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_tve_design": {
+      "task": "tmmluplus_tve_design",
+      "task_alias": "tve design",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "tve_design",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為統測 設計的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_tve_mathematics": {
+      "task": "tmmluplus_tve_mathematics",
+      "task_alias": "tve mathematics",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "tve_mathematics",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為統測數學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_tve_natural_sciences": {
+      "task": "tmmluplus_tve_natural_sciences",
+      "task_alias": "tve natural sciences",
+      "group": "tmmluplus_STEM",
+      "group_alias": "STEM",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "tve_natural_sciences",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為統測自然科的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_veterinary_pathology": {
+      "task": "tmmluplus_veterinary_pathology",
+      "task_alias": "veterinary pathology",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "veterinary_pathology",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為獸醫病理學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    },
+    "tmmluplus_veterinary_pharmacology": {
+      "task": "tmmluplus_veterinary_pharmacology",
+      "task_alias": "veterinary pharmacology",
+      "group": "tmmluplus_other",
+      "group_alias": "other",
+      "dataset_path": "ZoneTwelve/tmmluplus",
+      "dataset_name": "veterinary_pharmacology",
+      "test_split": "test",
+      "fewshot_split": "train",
+      "process_docs": "def process_docs(dataset: datasets.Dataset) -> datasets.Dataset:\n    def _helper(doc):\n        # modifies the contents of a single\n        # document in our dataset.\n        answer_list = [\"A\", \"B\", \"C\", \"D\"]\n        out_doc = {\n            \"questions\": doc[\"question\"],\n            \"choices\": [doc[\"A\"], doc[\"B\"], doc[\"C\"], doc[\"D\"]],\n            \"goal\": answer_list.index(doc[\"answer\"]),\n        }\n        return out_doc\n\n    return dataset.map(_helper)  # returns back a datasets.Dataset object\n",
+      "doc_to_text": "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:",
+      "doc_to_target": "answer",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "以下為獸醫藥理學的單選題，請提供正確答案的選項。\n\n",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 5,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        },
+        {
+          "metric": "acc_norm",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.1
+      }
+    }
+  },
+  "versions": {
+    "tmmluplus_accounting": 0.1,
+    "tmmluplus_administrative_law": 0.1,
+    "tmmluplus_advance_chemistry": 0.1,
+    "tmmluplus_agriculture": 0.1,
+    "tmmluplus_anti_money_laundering": 0.1,
+    "tmmluplus_auditing": 0.1,
+    "tmmluplus_basic_medical_science": 0.1,
+    "tmmluplus_business_management": 0.1,
+    "tmmluplus_chinese_language_and_literature": 0.1,
+    "tmmluplus_clinical_psychology": 0.1,
+    "tmmluplus_computer_science": 0.1,
+    "tmmluplus_culinary_skills": 0.1,
+    "tmmluplus_dentistry": 0.1,
+    "tmmluplus_economics": 0.1,
+    "tmmluplus_education": 0.1,
+    "tmmluplus_education_(profession_level)": 0.1,
+    "tmmluplus_educational_psychology": 0.1,
+    "tmmluplus_engineering_math": 0.1,
+    "tmmluplus_finance_banking": 0.1,
+    "tmmluplus_financial_analysis": 0.1,
+    "tmmluplus_fire_science": 0.1,
+    "tmmluplus_general_principles_of_law": 0.1,
+    "tmmluplus_geography_of_taiwan": 0.1,
+    "tmmluplus_human_behavior": 0.1,
+    "tmmluplus_insurance_studies": 0.1,
+    "tmmluplus_introduction_to_law": 0.1,
+    "tmmluplus_jce_humanities": 0.1,
+    "tmmluplus_junior_chemistry": 0.1,
+    "tmmluplus_junior_chinese_exam": 0.1,
+    "tmmluplus_junior_math_exam": 0.1,
+    "tmmluplus_junior_science_exam": 0.1,
+    "tmmluplus_junior_social_studies": 0.1,
+    "tmmluplus_linear_algebra": 0.1,
+    "tmmluplus_logic_reasoning": 0.1,
+    "tmmluplus_macroeconomics": 0.1,
+    "tmmluplus_management_accounting": 0.1,
+    "tmmluplus_marketing_management": 0.1,
+    "tmmluplus_mechanical": 0.1,
+    "tmmluplus_music": 0.1,
+    "tmmluplus_national_protection": 0.1,
+    "tmmluplus_nautical_science": 0.1,
+    "tmmluplus_occupational_therapy_for_psychological_disorders": 0.1,
+    "tmmluplus_official_document_management": 0.1,
+    "tmmluplus_optometry": 0.1,
+    "tmmluplus_organic_chemistry": 0.1,
+    "tmmluplus_pharmacology": 0.1,
+    "tmmluplus_pharmacy": 0.1,
+    "tmmluplus_physical_education": 0.1,
+    "tmmluplus_physics": 0.1,
+    "tmmluplus_politic_science": 0.1,
+    "tmmluplus_real_estate": 0.1,
+    "tmmluplus_secondary_physics": 0.1,
+    "tmmluplus_statistics_and_machine_learning": 0.1,
+    "tmmluplus_taiwanese_hokkien": 0.1,
+    "tmmluplus_taxation": 0.1,
+    "tmmluplus_technical": 0.1,
+    "tmmluplus_three_principles_of_people": 0.1,
+    "tmmluplus_trade": 0.1,
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": 0.1,
+    "tmmluplus_trust_practice": 0.1,
+    "tmmluplus_ttqav2": 0.1,
+    "tmmluplus_tve_chinese_language": 0.1,
+    "tmmluplus_tve_design": 0.1,
+    "tmmluplus_tve_mathematics": 0.1,
+    "tmmluplus_tve_natural_sciences": 0.1,
+    "tmmluplus_veterinary_pathology": 0.1,
+    "tmmluplus_veterinary_pharmacology": 0.1
+  },
+  "n-shot": {
+    "tmmluplus": 0,
+    "tmmluplus_STEM": 5,
+    "tmmluplus_accounting": 5,
+    "tmmluplus_administrative_law": 5,
+    "tmmluplus_advance_chemistry": 5,
+    "tmmluplus_agriculture": 5,
+    "tmmluplus_anti_money_laundering": 5,
+    "tmmluplus_auditing": 5,
+    "tmmluplus_basic_medical_science": 5,
+    "tmmluplus_business_management": 5,
+    "tmmluplus_chinese_language_and_literature": 5,
+    "tmmluplus_clinical_psychology": 5,
+    "tmmluplus_computer_science": 5,
+    "tmmluplus_culinary_skills": 5,
+    "tmmluplus_dentistry": 5,
+    "tmmluplus_economics": 5,
+    "tmmluplus_education": 5,
+    "tmmluplus_education_(profession_level)": 5,
+    "tmmluplus_educational_psychology": 5,
+    "tmmluplus_engineering_math": 5,
+    "tmmluplus_finance_banking": 5,
+    "tmmluplus_financial_analysis": 5,
+    "tmmluplus_fire_science": 5,
+    "tmmluplus_general_principles_of_law": 5,
+    "tmmluplus_geography_of_taiwan": 5,
+    "tmmluplus_human_behavior": 5,
+    "tmmluplus_humanities": 5,
+    "tmmluplus_insurance_studies": 5,
+    "tmmluplus_introduction_to_law": 5,
+    "tmmluplus_jce_humanities": 5,
+    "tmmluplus_junior_chemistry": 5,
+    "tmmluplus_junior_chinese_exam": 5,
+    "tmmluplus_junior_math_exam": 5,
+    "tmmluplus_junior_science_exam": 5,
+    "tmmluplus_junior_social_studies": 5,
+    "tmmluplus_linear_algebra": 5,
+    "tmmluplus_logic_reasoning": 5,
+    "tmmluplus_macroeconomics": 5,
+    "tmmluplus_management_accounting": 5,
+    "tmmluplus_marketing_management": 5,
+    "tmmluplus_mechanical": 5,
+    "tmmluplus_music": 5,
+    "tmmluplus_national_protection": 5,
+    "tmmluplus_nautical_science": 5,
+    "tmmluplus_occupational_therapy_for_psychological_disorders": 5,
+    "tmmluplus_official_document_management": 5,
+    "tmmluplus_optometry": 5,
+    "tmmluplus_organic_chemistry": 5,
+    "tmmluplus_other": 5,
+    "tmmluplus_pharmacology": 5,
+    "tmmluplus_pharmacy": 5,
+    "tmmluplus_physical_education": 5,
+    "tmmluplus_physics": 5,
+    "tmmluplus_politic_science": 5,
+    "tmmluplus_real_estate": 5,
+    "tmmluplus_secondary_physics": 5,
+    "tmmluplus_social_sciences": 5,
+    "tmmluplus_statistics_and_machine_learning": 5,
+    "tmmluplus_taiwanese_hokkien": 5,
+    "tmmluplus_taxation": 5,
+    "tmmluplus_technical": 5,
+    "tmmluplus_three_principles_of_people": 5,
+    "tmmluplus_trade": 5,
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": 5,
+    "tmmluplus_trust_practice": 5,
+    "tmmluplus_ttqav2": 5,
+    "tmmluplus_tve_chinese_language": 5,
+    "tmmluplus_tve_design": 5,
+    "tmmluplus_tve_mathematics": 5,
+    "tmmluplus_tve_natural_sciences": 5,
+    "tmmluplus_veterinary_pathology": 5,
+    "tmmluplus_veterinary_pharmacology": 5
+  },
+  "higher_is_better": {
+    "tmmluplus": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_STEM": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_accounting": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_administrative_law": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_advance_chemistry": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_agriculture": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_anti_money_laundering": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_auditing": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_basic_medical_science": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_business_management": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_chinese_language_and_literature": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_clinical_psychology": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_computer_science": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_culinary_skills": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_dentistry": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_economics": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_education": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_education_(profession_level)": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_educational_psychology": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_engineering_math": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_finance_banking": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_financial_analysis": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_fire_science": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_general_principles_of_law": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_geography_of_taiwan": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_human_behavior": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_humanities": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_insurance_studies": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_introduction_to_law": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_jce_humanities": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_junior_chemistry": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_junior_chinese_exam": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_junior_math_exam": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_junior_science_exam": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_junior_social_studies": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_linear_algebra": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_logic_reasoning": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_macroeconomics": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_management_accounting": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_marketing_management": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_mechanical": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_music": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_national_protection": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_nautical_science": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_occupational_therapy_for_psychological_disorders": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_official_document_management": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_optometry": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_organic_chemistry": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_other": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_pharmacology": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_pharmacy": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_physical_education": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_physics": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_politic_science": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_real_estate": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_secondary_physics": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_social_sciences": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_statistics_and_machine_learning": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_taiwanese_hokkien": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_taxation": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_technical": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_three_principles_of_people": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_trade": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_trust_practice": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_ttqav2": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_tve_chinese_language": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_tve_design": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_tve_mathematics": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_tve_natural_sciences": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_veterinary_pathology": {
+      "acc": true,
+      "acc_norm": true
+    },
+    "tmmluplus_veterinary_pharmacology": {
+      "acc": true,
+      "acc_norm": true
+    }
+  },
+  "n-samples": {
+    "tmmluplus_tve_natural_sciences": {
+      "original": 424,
+      "effective": 424
+    },
+    "tmmluplus_junior_chemistry": {
+      "original": 209,
+      "effective": 209
+    },
+    "tmmluplus_secondary_physics": {
+      "original": 112,
+      "effective": 112
+    },
+    "tmmluplus_basic_medical_science": {
+      "original": 954,
+      "effective": 954
+    },
+    "tmmluplus_linear_algebra": {
+      "original": 42,
+      "effective": 42
+    },
+    "tmmluplus_junior_science_exam": {
+      "original": 213,
+      "effective": 213
+    },
+    "tmmluplus_physics": {
+      "original": 97,
+      "effective": 97
+    },
+    "tmmluplus_pharmacy": {
+      "original": 391,
+      "effective": 391
+    },
+    "tmmluplus_organic_chemistry": {
+      "original": 109,
+      "effective": 109
+    },
+    "tmmluplus_statistics_and_machine_learning": {
+      "original": 224,
+      "effective": 224
+    },
+    "tmmluplus_engineering_math": {
+      "original": 103,
+      "effective": 103
+    },
+    "tmmluplus_junior_math_exam": {
+      "original": 175,
+      "effective": 175
+    },
+    "tmmluplus_computer_science": {
+      "original": 174,
+      "effective": 174
+    },
+    "tmmluplus_tve_mathematics": {
+      "original": 150,
+      "effective": 150
+    },
+    "tmmluplus_advance_chemistry": {
+      "original": 123,
+      "effective": 123
+    },
+    "tmmluplus_general_principles_of_law": {
+      "original": 106,
+      "effective": 106
+    },
+    "tmmluplus_introduction_to_law": {
+      "original": 237,
+      "effective": 237
+    },
+    "tmmluplus_anti_money_laundering": {
+      "original": 134,
+      "effective": 134
+    },
+    "tmmluplus_trust_practice": {
+      "original": 401,
+      "effective": 401
+    },
+    "tmmluplus_administrative_law": {
+      "original": 420,
+      "effective": 420
+    },
+    "tmmluplus_jce_humanities": {
+      "original": 90,
+      "effective": 90
+    },
+    "tmmluplus_taxation": {
+      "original": 375,
+      "effective": 375
+    },
+    "tmmluplus_clinical_psychology": {
+      "original": 125,
+      "effective": 125
+    },
+    "tmmluplus_tve_chinese_language": {
+      "original": 483,
+      "effective": 483
+    },
+    "tmmluplus_national_protection": {
+      "original": 211,
+      "effective": 211
+    },
+    "tmmluplus_educational_psychology": {
+      "original": 176,
+      "effective": 176
+    },
+    "tmmluplus_economics": {
+      "original": 393,
+      "effective": 393
+    },
+    "tmmluplus_chinese_language_and_literature": {
+      "original": 199,
+      "effective": 199
+    },
+    "tmmluplus_human_behavior": {
+      "original": 309,
+      "effective": 309
+    },
+    "tmmluplus_geography_of_taiwan": {
+      "original": 768,
+      "effective": 768
+    },
+    "tmmluplus_occupational_therapy_for_psychological_disorders": {
+      "original": 543,
+      "effective": 543
+    },
+    "tmmluplus_ttqav2": {
+      "original": 113,
+      "effective": 113
+    },
+    "tmmluplus_education_(profession_level)": {
+      "original": 486,
+      "effective": 486
+    },
+    "tmmluplus_macroeconomics": {
+      "original": 411,
+      "effective": 411
+    },
+    "tmmluplus_physical_education": {
+      "original": 179,
+      "effective": 179
+    },
+    "tmmluplus_junior_chinese_exam": {
+      "original": 175,
+      "effective": 175
+    },
+    "tmmluplus_three_principles_of_people": {
+      "original": 139,
+      "effective": 139
+    },
+    "tmmluplus_taiwanese_hokkien": {
+      "original": 129,
+      "effective": 129
+    },
+    "tmmluplus_politic_science": {
+      "original": 995,
+      "effective": 995
+    },
+    "tmmluplus_education": {
+      "original": 124,
+      "effective": 124
+    },
+    "tmmluplus_financial_analysis": {
+      "original": 382,
+      "effective": 382
+    },
+    "tmmluplus_optometry": {
+      "original": 920,
+      "effective": 920
+    },
+    "tmmluplus_culinary_skills": {
+      "original": 292,
+      "effective": 292
+    },
+    "tmmluplus_veterinary_pharmacology": {
+      "original": 540,
+      "effective": 540
+    },
+    "tmmluplus_tve_design": {
+      "original": 480,
+      "effective": 480
+    },
+    "tmmluplus_accounting": {
+      "original": 191,
+      "effective": 191
+    },
+    "tmmluplus_official_document_management": {
+      "original": 222,
+      "effective": 222
+    },
+    "tmmluplus_fire_science": {
+      "original": 124,
+      "effective": 124
+    },
+    "tmmluplus_real_estate": {
+      "original": 92,
+      "effective": 92
+    },
+    "tmmluplus_music": {
+      "original": 278,
+      "effective": 278
+    },
+    "tmmluplus_finance_banking": {
+      "original": 135,
+      "effective": 135
+    },
+    "tmmluplus_veterinary_pathology": {
+      "original": 283,
+      "effective": 283
+    },
+    "tmmluplus_marketing_management": {
+      "original": 93,
+      "effective": 93
+    },
+    "tmmluplus_junior_social_studies": {
+      "original": 126,
+      "effective": 126
+    },
+    "tmmluplus_pharmacology": {
+      "original": 577,
+      "effective": 577
+    },
+    "tmmluplus_agriculture": {
+      "original": 151,
+      "effective": 151
+    },
+    "tmmluplus_management_accounting": {
+      "original": 215,
+      "effective": 215
+    },
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": {
+      "original": 278,
+      "effective": 278
+    },
+    "tmmluplus_auditing": {
+      "original": 550,
+      "effective": 550
+    },
+    "tmmluplus_nautical_science": {
+      "original": 551,
+      "effective": 551
+    },
+    "tmmluplus_mechanical": {
+      "original": 118,
+      "effective": 118
+    },
+    "tmmluplus_logic_reasoning": {
+      "original": 139,
+      "effective": 139
+    },
+    "tmmluplus_business_management": {
+      "original": 139,
+      "effective": 139
+    },
+    "tmmluplus_trade": {
+      "original": 502,
+      "effective": 502
+    },
+    "tmmluplus_dentistry": {
+      "original": 399,
+      "effective": 399
+    },
+    "tmmluplus_technical": {
+      "original": 402,
+      "effective": 402
+    },
+    "tmmluplus_insurance_studies": {
+      "original": 760,
+      "effective": 760
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=liswei/Taiwan-ELM-270M-Instruct,dtype=bfloat16,trust_remote_code=True",
+    "model_num_parameters": 309617408,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "de81b31255252ce1543f5a8132e7603eba450d0e",
+    "batch_size": "auto:64",
+    "batch_sizes": [
+      32,
+      32,
+      32,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "device": "cuda:0",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "379e56d",
+  "date": 1717394851.845047,
+  "pretty_env_info": "PyTorch version: 2.3.0+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 22.04.3 LTS (x86_64)\nGCC version: (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0\nClang version: Could not collect\nCMake version: version 3.29.3\nLibc version: glibc-2.35\n\nPython version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] (64-bit runtime)\nPython platform: Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35\nIs CUDA available: True\nCUDA runtime version: 12.3.107\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA GeForce RTX 3090\nNvidia driver version: 551.61\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                       x86_64\nCPU op-mode(s):                     32-bit, 64-bit\nAddress sizes:                      48 bits physical, 48 bits virtual\nByte Order:                         Little Endian\nCPU(s):                             12\nOn-line CPU(s) list:                0-11\nVendor ID:                          AuthenticAMD\nModel name:                         AMD Ryzen 5 3600 6-Core Processor\nCPU family:                         23\nModel:                              113\nThread(s) per core:                 2\nCore(s) per socket:                 6\nSocket(s):                          1\nStepping:                           0\nBogoMIPS:                           7200.05\nFlags:                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl tsc_reliable nonstop_tsc cpuid extd_apicid pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy svm cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw topoext perfctr_core ssbd ibpb stibp vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 clzero xsaveerptr arat npt nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold v_vmsave_vmload umip rdpid\nVirtualization:                     AMD-V\nHypervisor vendor:                  Microsoft\nVirtualization type:                full\nL1d cache:                          192 KiB (6 instances)\nL1i cache:                          192 KiB (6 instances)\nL2 cache:                           3 MiB (6 instances)\nL3 cache:                           16 MiB (1 instance)\nVulnerability Gather data sampling: Not affected\nVulnerability Itlb multihit:        Not affected\nVulnerability L1tf:                 Not affected\nVulnerability Mds:                  Not affected\nVulnerability Meltdown:             Not affected\nVulnerability Mmio stale data:      Not affected\nVulnerability Retbleed:             Mitigation; untrained return thunk; SMT enabled with STIBP protection\nVulnerability Spec rstack overflow: Mitigation; safe RET\nVulnerability Spec store bypass:    Mitigation; Speculative Store Bypass disabled via prctl and seccomp\nVulnerability Spectre v1:           Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:           Mitigation; Retpolines, IBPB conditional, STIBP always-on, RSB filling, PBRSB-eIBRS Not affected\nVulnerability Srbds:                Not affected\nVulnerability Tsx async abort:      Not affected\n\nVersions of relevant libraries:\n[pip3] mypy-protobuf==3.4.0\n[pip3] numpy==1.26.4\n[pip3] torch==2.3.0\n[pip3] triton==2.3.0\n[conda] No relevant packages",
+  "transformers_version": "4.41.1",
+  "upper_git_hash": null,
+  "task_hashes": {
+    "tmmluplus_tve_natural_sciences": "c6a254e54c9854b707626282a14b9244cce5e3f0f8d61e27e019a87630ea89ea",
+    "tmmluplus_junior_chemistry": "cd843e966dade717e56a175f32924910229506047da06f53b40fc17bb759ae0d",
+    "tmmluplus_secondary_physics": "b8b2c96306dd8de428cc0d33b5ef77ecd5658ff93c0184f6a84fe87537888f11",
+    "tmmluplus_basic_medical_science": "19a9df647caf8066fec3d6c967a901961ca7afaa35ebc70b60feb62af9e501b3",
+    "tmmluplus_linear_algebra": "055e8ab71b3f42a1339f0184f27b871dde13bb4439d90590e70332de3b445d9c",
+    "tmmluplus_junior_science_exam": "f099980ce97889a962a8b2f48ec6189793d9b6496e829c11a72ff43083ff1894",
+    "tmmluplus_physics": "7b03e09a896ef0a41605f75f3f7d806d7a4db852417930d795117529c34ce321",
+    "tmmluplus_pharmacy": "fda4900ef3a6dbe4ac8b4c910ba83cf381ebc13dc74a745cd4e746c92176b8c8",
+    "tmmluplus_organic_chemistry": "88b7f4aeca900fd22da2664ff944caf93a49e8d6bf21fd535a97a83aad503bdb",
+    "tmmluplus_statistics_and_machine_learning": "0eff8ef57c13c8bc54f3a6f768bff94b60034200c4ebc4dfa0a60586b6daa209",
+    "tmmluplus_engineering_math": "e9970a486d6c093d5c5b1b2ba5aebc4672e4d46f90be9ac5d6fe879010b92f6c",
+    "tmmluplus_junior_math_exam": "9554746d4c974a1631d7b1e595552b59c9552a73de3553bc67d018e1d8a069a7",
+    "tmmluplus_computer_science": "0dbf855122da0d6af7840487db28f224a74455c1f6cde02ba55b79c9627c141f",
+    "tmmluplus_tve_mathematics": "f67b485c5c5f0d079c013bbc3d9813ae3a492de280bb77bae331130fa807419f",
+    "tmmluplus_advance_chemistry": "a1864ba56ff3020f98e8618ab0f89e9901b71a86b03cc090f08cc12c0824c1af",
+    "tmmluplus_general_principles_of_law": "72196c1b694c17ea08e6abdc92adca29d98aa01cc20f8d6584bab23c989c41f6",
+    "tmmluplus_introduction_to_law": "4457525539f0db48e9f8b607a38f43a1abe9ff1290b7cf5164423699dc98fb12",
+    "tmmluplus_anti_money_laundering": "afee381af57e94ed9949be0fefe8e869c07c252043c686c0722b2a8aa0e18422",
+    "tmmluplus_trust_practice": "44f4e9369fdc9cdc4c0b1ca51dcfe6c0a705c46c72b681da390ec0776db50bfa",
+    "tmmluplus_administrative_law": "6881810ac54dcdbd4d999761aa4051d6e14e5cc415d04934ff0bd9b1e56f5941",
+    "tmmluplus_jce_humanities": "ce2fd2f68651cfc3b6ec569ecbad173f2969aae6626c49bb00976874f1024844",
+    "tmmluplus_taxation": "de160274f4971c105c4f103e77e321d47da720693ba8bcbd9011acef5cc814af",
+    "tmmluplus_clinical_psychology": "33342edf46dea280a6fbf649bf952a3482a6ad8d9874ed507423566b745e9c3a",
+    "tmmluplus_tve_chinese_language": "e46c7f7ed53a86b9b9d8766340b3dfcaab0258d3272ac1d4ab035e70e878f9c2",
+    "tmmluplus_national_protection": "48daddad6a682f05b1ebf107dce8768c8f1f90d071aa89c322786545eec408ac",
+    "tmmluplus_educational_psychology": "de90d5eb9abae985cb86fafc080802ab4cdfe4e82da35c959f7cdf54a147d1a6",
+    "tmmluplus_economics": "4e38bbee161fae32db6fce7d0307cb56e01cceb7222682bb71c1095d88122935",
+    "tmmluplus_chinese_language_and_literature": "e57c524ffc7d5806b9fd61b0240474c6d3b5f0b9236ff1b3dd9d611d784c6846",
+    "tmmluplus_human_behavior": "7bebd2e322cc5ba6cdc08d3a125720a88c8b9a2aa265186bd00ba8b74ad32420",
+    "tmmluplus_geography_of_taiwan": "7cb3c2b63bc76ba98e8b7c638cf11a4020d1b77f7bc34d0161cf7ad2974d77b1",
+    "tmmluplus_occupational_therapy_for_psychological_disorders": "ce5c2399879e7a6ab924649ebbad046a0161c780538efa5792f5f5677e58cb39",
+    "tmmluplus_ttqav2": "04c51b5f6d705c0755ee07583d4f77c5ed783a94d72c790f2d8050e5e955360a",
+    "tmmluplus_education_(profession_level)": "301dd90a1ffb6a17704e6db0a1d10c3ca563c994689efd1de46b4d041d21068e",
+    "tmmluplus_macroeconomics": "eb160384a8ca2b27c12a1387b3fd1eb62c1e3acb9348d26fe39dba78ec2bf536",
+    "tmmluplus_physical_education": "748b294d1a63a9cc9a564fca913332afca12735ad6859ba57b7fb1685c663b43",
+    "tmmluplus_junior_chinese_exam": "a848c4e1db2afd9780311a27e71689cbbd89363b2d7567085a28114e7adeb4fb",
+    "tmmluplus_three_principles_of_people": "3b0197b1135486b032626660d76298ac48c8f80a115978da9c5e080c5b5b2df5",
+    "tmmluplus_taiwanese_hokkien": "849bba2ae6fcfe91572bc23c9f10fd010dd11c9859b8d86d210b72074f101568",
+    "tmmluplus_politic_science": "04ea365424f39c89f6053176960759f884dca7f6d9415161a0ec1b3e0cd55266",
+    "tmmluplus_education": "5cd5a7f39caba8f92af7b8275547b36958ac826263c2a1deb9daf90b0f45d07a",
+    "tmmluplus_financial_analysis": "a62763e1f15423857ed2a1d890aefa8eb3f82732d1fa718d0d27bcc0ee7e8878",
+    "tmmluplus_optometry": "bdae4a5a9670cea01aed9f8ecccc2eb4c37eed3928b94ac8fe1b8e0081fb3fa6",
+    "tmmluplus_culinary_skills": "455e2b0183c052a654100f390bf4be3315681a4fdb182f75b296d948f93f8d3b",
+    "tmmluplus_veterinary_pharmacology": "d2029c801de0c5410a975d0be1e73f54a211bf392808ef051e3ad805c6b3b8a8",
+    "tmmluplus_tve_design": "87c74233e69d714b3354d102ef822f44487fac90b912e72f403e2be8872d3c1a",
+    "tmmluplus_accounting": "3216496d73bd7c09e5c5785c36cfad1f58af4407bc58392f64ba46caa6455c64",
+    "tmmluplus_official_document_management": "cccc7ed1d53bd9da110902b899aaf930edaac763b4e99d7eb7bf1cb889a28623",
+    "tmmluplus_fire_science": "e415c995f322a8e4fc2005a15bfb85783cf39e562ae569c647ec81c06e0e0db5",
+    "tmmluplus_real_estate": "1b6e6c0e5542f8b7288525606381525931ca881bbf040f1186329ea807a83c1c",
+    "tmmluplus_music": "76534c633bac92607e4847a33581404c157345bba3ae1c25b77b226a34e36851",
+    "tmmluplus_finance_banking": "c38bea715077128ca0cc85ed9b86628ad887d39395ef6df36f7a1a1eaeea21e1",
+    "tmmluplus_veterinary_pathology": "644943e9c8d844eb346ce727325b28673996a3b2b23bcfd123a56c721faec685",
+    "tmmluplus_marketing_management": "4f00cf845b6fad9a15a6a26263b612a36d446c627c1bf7ab24e43b616d2336f3",
+    "tmmluplus_junior_social_studies": "8e6765980fbbe895e2f6db266b393dfab67192919c86906013213de072a45b55",
+    "tmmluplus_pharmacology": "edbc5ac361958a346687296dcf72337a02ae7dc99fd5ce058a5c5c171b78c9c7",
+    "tmmluplus_agriculture": "f3a36f778674dc0de90cd432557095960d0d304e1a28390ad7839a05aa9de379",
+    "tmmluplus_management_accounting": "bc86dfb008a78d445c4c8f59a36918b60b7906bede252eb4dfadbdbc96ea7e9f",
+    "tmmluplus_traditional_chinese_medicine_clinical_medicine": "9c560b86421a1858fabc5216459f9affa1b5bf5888da7a0134a7b9356ba65f2d",
+    "tmmluplus_auditing": "63cab4b61862141abcecc81605bcd53cfa2911007e731fcb5dd6fd4090004edc",
+    "tmmluplus_nautical_science": "5826d7b6e440404aee17e60e2a165bda2535db14fb9cff31ccdf007213fc4c95",
+    "tmmluplus_mechanical": "667ba0191f13064377a4e5789e7801e577605c5243a057df0a7bf3a5d1c9237e",
+    "tmmluplus_logic_reasoning": "0f98c41bf3af8ab588a4c81a2c5ff95ccac151c78beff36c2dc85d9fda6edee4",
+    "tmmluplus_business_management": "5dab4acee81bc7e0d34fe6764e233da8324bd33fe258fa465e503e976792251a",
+    "tmmluplus_trade": "e21004af26459b16f62d65a194b8453bad7665c4e71bbe85095fb996203b3394",
+    "tmmluplus_dentistry": "058b3171173c0e96c3eb32062b476a176c4bf3da5fcbe0b93ebea8d1cb70104b",
+    "tmmluplus_technical": "09ea4656055bf5ea251b1ae8718bd36bbd59ff2d67fc9fef05c700499baf12d8",
+    "tmmluplus_insurance_studies": "f8eecc2430573df72fe161ab9624cd9ebc1cbfbecaeabcdf091c005832e8a4ab"
+  },
+  "model_source": "hf",
+  "model_name": "liswei/Taiwan-ELM-270M-Instruct",
+  "model_name_sanitized": "liswei__Taiwan-ELM-270M-Instruct",
+  "start_time": 157736.19536866,
+  "end_time": 162794.837056242,
+  "total_evaluation_time_seconds": "5058.641687581985"
+}
