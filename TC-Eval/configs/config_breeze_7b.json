@@ -1,0 +1,48 @@
+{
+  "default": {
+    "model_name": "Breeze-7B-Instruct-v1_0",
+    "resp_model_name": "tgi",
+    "api_base": "http://0.0.0.0:8088",
+    "tgi_generation_config": {
+      "max_new_tokens": 128,
+      "do_sample": false,
+      "temperature": null,
+      "best_of": 1
+    },
+    "prompt_config": {
+      "model_template": "llama2",
+      "sys_prompt": "",
+      "prefix_resp": "",
+      "query_template": null
+    }
+  },
+  "task_specific": [
+    {
+      "task_name": "DRCD",
+      "prompt_config": {
+        "prefix_resp": " 答案： "
+      }
+    },
+    {
+      "task_name": "FGC",
+      "prompt_config": {
+        "prefix_resp": " 答案： "
+      }
+    },
+    {
+      "task_name": "TTQA",
+      "prompt_config": {
+        "prefix_resp": " 答案： "
+      }
+    },
+    {
+      "task_name": "PenguinsInTable_TC",
+      "prompt_config": {
+        "prefix_resp": " 答案： "
+      }
+    },
+    {
+      "task_name": "IMDB_TC"
+    }
+  ]
+}
